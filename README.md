@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @haagbr
-- 👀 I’m interested in Security Projects
-- 🌱 I’m currently working for @XP Inc
+Rafael Haag
+
+Senior Security Specialist at [XP Inc.](https://www.xpinc.com)
+
 
 
 <!---
